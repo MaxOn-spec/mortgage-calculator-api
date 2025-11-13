@@ -1,0 +1,1 @@
+{"version":3,"file":"schema.js","sourceRoot":"","sources":["../../src/database/schema.ts"],"names":[],"mappings":";;;AAAA,sEAAmE;AACnE,wFAAoF;AACpF,6DAA0D;AAC1D,wFAAoF;AACpF,yFAAqF;AACrF,iGAA6F;AAGhF,QAAA,cAAc,GAAG;IAC1B,QAAQ,EAAR,mBAAQ;IACR,aAAa,EAAb,8BAAa;IACb,KAAK,EAAL,aAAK;IACL,aAAa,EAAb,8BAAa;IACb,gBAAgB,EAAhB,oCAAgB;IAChB,oBAAoB,EAApB,4CAAoB;CACd,CAAC"}

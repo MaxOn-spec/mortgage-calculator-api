@@ -1,0 +1,18 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.PAGINATION_CONSTANTS = exports.DATABASE_CONSTANTS = void 0;
+exports.DATABASE_CONSTANTS = {
+    DEFAULT_PAGE_SIZE: 10,
+    MAX_PAGE_SIZE: 100,
+    PASSWORD_SALT_ROUNDS: 12,
+    DEFAULT_TIMEZONE: '+03:00',
+    CONNECTION_TIMEOUT: 30000,
+    ACQUIRE_TIMEOUT: 60000,
+    TIMEOUT: 60000,
+};
+exports.PAGINATION_CONSTANTS = {
+    DEFAULT_PAGE: 1,
+    DEFAULT_LIMIT: exports.DATABASE_CONSTANTS.DEFAULT_PAGE_SIZE,
+    MAX_LIMIT: exports.DATABASE_CONSTANTS.MAX_PAGE_SIZE,
+};
+//# sourceMappingURL=constants.js.map
